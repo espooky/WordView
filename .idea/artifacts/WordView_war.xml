@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WordView:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="wordView.war">
+      <element id="artifact" artifact-name="WordView:war exploded" />
+    </root>
+  </artifact>
+</component>
